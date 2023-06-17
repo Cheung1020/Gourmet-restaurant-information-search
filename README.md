@@ -14,4 +14,4 @@ This project is to grab the food list of Guishan. If you want to grab the food l
 # Source of crawled data
 https://ifoodie.tw
 # User Interface
-![GITHUB]( read data screen.png "read data screen.png")
+![GITHUB]( [read data screen.png](https://github.com/Cheung1020/Gourmet-restaurant-information-search/blob/main/read%20data%20screen.png) "read data screen.png")
