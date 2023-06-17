@@ -13,3 +13,5 @@ This project is to grab the food list of Guishan. If you want to grab the food l
 * two pictures(One for icon, one for random button)
 # Source of crawled data
 https://ifoodie.tw
+# User Interface
+![GITHUB]( read data screen.png "圖片名稱")
