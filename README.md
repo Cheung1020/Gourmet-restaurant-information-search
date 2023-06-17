@@ -1,2 +1,2 @@
 # Gourmet-restaurant-information-search
-Use web crawler case TKInter
+Use web crawler and TKInter
